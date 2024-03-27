@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "2e46",
+      "cityName": "Santo Domingo de Silos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-27T13:31:50.776Z",
+      "notes": "",
+      "position": {
+        "lat": "41.932933275213024",
+        "lng": "-3.4469604492187504"
+      }
+    },
+    {
+      "id": "4bfe",
+      "cityName": "Sabinanigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-27T13:31:58.970Z",
+      "notes": "",
+      "position": {
+        "lat": "42.42399797979265",
+        "lng": "-0.14865563232422163"
+      }
+    },
+    {
+      "id": "5988",
+      "cityName": "Valdemeca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-27T13:35:37.544Z",
+      "notes": "",
+      "position": {
+        "lat": "40.199854889057676",
+        "lng": "-1.7633056640625002"
+      }
+    },
+    {
+      "id": "a306",
+      "cityName": "Valdemoro-Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-27T13:35:39.912Z",
+      "notes": "",
+      "position": {
+        "lat": "40.18726672309203",
+        "lng": "-1.77978515625"
+      }
+    },
+    {
+      "id": "5cde",
+      "cityName": "Valdemeca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-27T13:35:53.521Z",
+      "notes": "",
+      "position": {
+        "lat": "40.17887331434698",
+        "lng": "-1.7193603515625002"
+      }
+    },
+    {
+      "id": "d15c",
+      "cityName": "Boryspil",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-03-27T15:13:22.387Z",
+      "notes": "",
+      "position": {
+        "lat": "50.28933925329178",
+        "lng": "30.893554687500004"
+      }
+    }
+  ]
+}
