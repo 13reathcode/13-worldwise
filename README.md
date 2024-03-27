@@ -114,7 +114,3 @@ To set up the WorldWise project locally, follow the instructions below.
 1. Login with already created account
 
 1. Start adding your cities to the list
-
-## 📄License
-
-The WorldWise project is open-source and is licensed under the [MIT License](LICENSE) .
