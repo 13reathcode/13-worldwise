@@ -33,7 +33,7 @@ The WorldWise project utilizes the following technologies:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> &nbsp; &nbsp;[React](https://reactjs.org/)
 
-- <img src="./screenshots/react-router-svgrepo-com.svg" alt="Firebase" width="40" height="40"/> &nbsp; &nbsp;[React Router](https://reactrouter.com/)
+- &nbsp; &nbsp;[React Router](https://reactrouter.com/)
 
 - [React leaflet](https://react-leaflet.js.org/)
 
